@@ -1,0 +1,16 @@
+Lab 6
+
+matplotlib.pyplot.legend() - Creates legend
+
+Making a plot with log scaling:
+    matplotlib.pyplot.semilogy() - does log scaling on the y-axis
+    matplotlib.pyplot.semilogx() - does log scaling on the x-axis
+    matplotlib.pyplot.loglog() - does log scaling on both x and y axis
+    
+    matplotlib.pyplot.errorbar() - plots with attached errorbars
+    
+    matplotlib.pyplot.bar() - plots bar chart
+    
+    matplotlib.pyplot.hist() - plots a histogram
+    
+    matplotlib.pyplot.pie() - Plots pie chart
